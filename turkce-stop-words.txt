@@ -72,7 +72,6 @@ edilmesi
 ediyor
 eğer
 elbette
-en
 etmesi
 etti
 ettiği
@@ -173,7 +172,6 @@ olur
 olur
 olursa
 oluyor
-on
 ön
 ona
 önce
@@ -188,7 +186,6 @@ onun
 orada
 öte
 ötürü
-otuz
 öyle
 oysa
 pek
@@ -258,4 +255,3 @@ yoksa
 yu
 zaten
 zira
-zxtest
