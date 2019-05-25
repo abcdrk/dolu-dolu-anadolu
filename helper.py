@@ -13,7 +13,7 @@ for par in par_list:
     start = par.index(" ")
     num = par[:start]
     key = int(num, 10)
-    par_dict[key] = { "paragraph" : par, "sentences" : sent_detector(par)}
+    par_dict[key] = { "paragraph" : par, "sentences" : sent_detector(par[start+1:])}
     break
 
 print(par_dict)
