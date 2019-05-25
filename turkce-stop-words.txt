@@ -8,7 +8,6 @@ asla
 aslında
 aslında
 ayrıca
-az
 bana
 bazen
 bazı
@@ -56,7 +55,6 @@ dahi
 dan
 de
 defa
-değil
 diğer
 diğeri
 diğerleri
@@ -65,7 +63,6 @@ dolayı
 dolayısıyla
 edecek
 eden
-ederek
 edilecek
 ediliyor
 edilmesi
@@ -77,6 +74,7 @@ etti
 ettiği
 ettiğini
 fakat
+fotoğraf
 falan
 filan
 gene
@@ -136,6 +134,9 @@ madem
 mi
 mı
 mu
+mıdır
+midir
+müdür
 mü
 nasıl
 ne
@@ -187,6 +188,7 @@ orada
 öte
 ötürü
 öyle
+örneğin
 oysa
 pek
 rağmen
@@ -215,6 +217,7 @@ sizi
 sizin
 sizin
 sonra
+şey
 şöyle
 şu
 şuna
